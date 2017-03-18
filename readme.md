@@ -6,4 +6,4 @@
 4. Word-2-vec
 5. Convolution Neural Network
 6. Auto-encoders
-
+7. Cifar dataset colorization
